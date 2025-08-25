@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/TimestampHelper/TimestampHelper.csproj" />
+  <Project Path="tests/TimestampHelper.Tests/TimestampHelper.Tests.csproj" />
+</Solution>
